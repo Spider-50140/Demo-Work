@@ -13,7 +13,10 @@ int main()
     int x=50;
     int y=25;
   
-  //Final copy
+    
+    string s="Satya"
+    string t="Prakash"    
+
 
 return 0
 }
