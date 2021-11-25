@@ -7,6 +7,11 @@ int main()
   int a=50;
   int b=25;
   cout<<a+b<<endl;
+    
+    // just adding few names
+    
+    int x=50;
+    int y=25;
   
 
 
