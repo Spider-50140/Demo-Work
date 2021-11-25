@@ -13,7 +13,9 @@ int main()
     int x=50;
     int y=25;
   
-
+  // now i will be adding few things but i want them in minor branch not major one
+    
+    string s="Satya"
 
 return 0
 }
